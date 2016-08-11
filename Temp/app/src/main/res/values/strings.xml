@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="grados">Grados</string>
+    <string name="far">F°</string>
+    <string name="cent">C°</string>
+</resources>

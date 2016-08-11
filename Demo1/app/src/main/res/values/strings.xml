@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loggin</string>
+    <string name="hello_world">Hello World</string>
+    <string name="send">Send</string>
+    <string name="mail">Ingress your e-mail</string>
+    <string name="pass">Ingress Pass</string>
+    <string name="none">none</string>
+
+</resources>
